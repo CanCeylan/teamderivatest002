@@ -1,0 +1,2 @@
+class OcanController < ApplicationController
+end
