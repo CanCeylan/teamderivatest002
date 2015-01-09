@@ -5,7 +5,7 @@ class OcanController < ApplicationController
 	end
 
 	def ahmet_method
-
+        Ahmettanakol deneme function
 	end
 
 end
